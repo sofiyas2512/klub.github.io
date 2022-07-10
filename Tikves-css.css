@@ -1,0 +1,318 @@
+.Strana hgroup
+{
+    position: static;
+    padding-left: 50px;
+    padding-top: -350px;
+    /*margin-top: -170px;*/
+    color: black;
+    text-decoration: none;
+    font-size: 22px;
+}
+.Strana
+{
+    display: flex;
+}
+.MAIN-DIV
+{
+    margin: auto;
+    max-width: 80%;
+    position: static;
+    background-color: lightgoldenrodyellow;
+    height: 1000px;
+}
+.MAIN-DIV-istorija
+{
+    margin: auto;
+    max-width: 80%;
+    position: static;
+    background-color: lightgoldenrodyellow;
+    height: 1500px;
+}
+.MAIN-DIV-uspesi
+{
+    margin: auto;
+    max-width: 80%;
+    position: static;
+    background-color: lightgoldenrodyellow;
+    height: 1220px;
+}
+.MAIN-DIV-lozari
+{
+    margin: auto;
+    max-width: 80%;
+    position: static;
+    background-color: lightgoldenrodyellow;
+    height: 2710px;
+}
+.MAIN-DIV-igraci{
+    margin: auto;
+    max-width: 80%;
+    position: static;
+    background-color: lightgoldenrodyellow;
+    height: 1280px;
+}
+body
+{
+
+    position: static;
+    margin: auto;
+    height: 800px;
+    max-width: 80%;
+}
+.meni {
+    background:linear-gradient(#5b5b5b,#333);
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    /*margin-top: 5.5px;*/
+}
+.meni ul{
+
+    display: flex;
+    float: left;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 0;
+    position: static;
+}
+/* Style the links inside the navigation bar */
+.meni a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-left: 1px solid #444;
+    border-right: 1px  solid black;
+    padding-right: 150px;
+
+
+}
+
+/* Change the color of links on hover */
+.meni a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.meni a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+.lel p{
+    /*float: right;*/
+   /*margin-left: 500px;*/
+    padding-left: 100px;
+    /*margin-top: -380px ;*/
+    position: static;
+
+}
+.pictures{
+    display: flex;
+    float: left;
+}
+
+.Opsto
+{
+    font-size: 20px;
+    text-align: center;
+    position: static;
+}
+.op1
+{
+    float: left;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 20px;
+}
+footer
+{
+    display: flex;
+
+}
+ul.list
+{
+    float: left;
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+
+}
+
+#follow-us
+{
+    float: right;
+    /*padding-right: -150px;*/
+    font-size: 40px;
+}
+.socialmedia {
+
+    height: 80px;
+    width: 80px;
+
+}
+.follow{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 90px;
+}
+#smallmenu
+{
+    background: url("images/58.jpg");
+    max-width: 110%;
+    height: 327px;
+}
+
+
+#prvooto
+{
+    clear: both;
+    display: flex;
+}
+#Istorija-p1
+{
+    float: left;
+    text-align: justify;
+    font-size: 17px;
+}
+
+#fotografija
+{
+    float: right;
+
+}
+
+#vtoro
+{
+    clear: both;
+
+}
+#vtoroto
+{
+    clear: both;
+    display: flex;
+}
+#paragraf
+{
+    float: right;
+    font-size: 17px;
+    text-align: justify;
+}
+#fotografii
+{
+    float: left;
+
+}
+#treto{
+    clear: both;
+}
+#tretoto{
+    display: flex;
+}
+#paragrafot{
+    float: left;
+}
+#fotografija-2{
+    float: right;
+}
+.foto
+{
+    justify-content: center;
+}
+
+.PobediPorazi
+{
+    font-size: 20px;
+}
+.firstp
+{
+
+    text-align: justify;
+    float: left;
+    display: flex;
+
+}
+.slikicka
+{
+    float: right;
+}
+
+.secondp {
+    float: left;
+    display: flex;
+    text-align: justify;
+}
+.lastp
+{
+
+    display: flex;
+    text-align: justify;
+}
+.table.tabela1
+{
+
+    width: 80%;
+}
+#tabeli
+{
+    padding-left: 150px;
+}
+#golem
+{
+    clear: both;
+    display: flex;
+}
+#paragrafc
+{
+    float: left;
+    font-size: 20px;
+    text-align: justify;
+}
+#sliki
+{
+
+    float: right;
+}
+#ueu
+{
+
+    display: flex;
+}
+#pap
+{
+    float: right;
+    font-size: 22px;
+    text-align: justify;
+}
+#del3
+{
+    display: flex;
+}
+#boi
+{
+    padding-left: 15px;
+}
+#posleden
+{
+    font-size: 20px;
+    color: red;
+    text-align: justify;
+}
+#najd
+{
+    display: flex;
+}
+#dron
+{
+    float:  left;
+}
+#tekst-dron
+{
+    float:  right;
+    text-align: right;
+    font-size: 20px;
+}
